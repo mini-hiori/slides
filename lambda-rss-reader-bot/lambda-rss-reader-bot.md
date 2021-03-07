@@ -131,6 +131,12 @@ def get_rss(url: str) -> List[RssContent]:
 
 ---
 
+# できた
+
+<img src="https://raw.githubusercontent.com/mini-hiori/zenn-content/main/images/lambda-rss-reader-bot/discord-webhook-example.png" width=60%>
+
+---
+
 # おわり
 - おまけ
   - このスライドは[Marp](https://yhatt.github.io/marp/)による
